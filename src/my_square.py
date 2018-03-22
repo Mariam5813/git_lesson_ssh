@@ -1,6 +1,6 @@
-def my_square(x):
+def my_square(z):
 	""" takes a value a return a square
 	add some comments
 	"""
-	return (x ** 2)
+	return (z*z)
 print (my_square (4) )

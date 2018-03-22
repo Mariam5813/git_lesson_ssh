@@ -3,4 +3,4 @@ def my_square(z):
 	add some comments
 	"""
 	return (z*z)
-print (my_square (4) )
+print (my_square (21) )

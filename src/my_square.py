@@ -1,6 +1,7 @@
-def my_square(x):
+def my_square(y):
 	""" takes a value a return a square
-	add some comments
+	add some comments 
+	save this file
 	"""
-	return (x ** 2)
-print (my_square (4) )
+	return (y ** 2)
+print (my_square (42) )

@@ -11,5 +11,11 @@ def my_quadro(z):
 	create new function
 	"""	
 	return (z**4)
-print (my_square (42) )
+	def my_triple(x):
+		"""
+		"""
+		return(x ** 3)
+		
+print (my_square (42))
+print (my_triple(17))
 print (my_quadro(21))

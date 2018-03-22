@@ -6,7 +6,7 @@ def my_square(y):
 	"""
 	return (y ** 2)
 
-def my_quadro(z)
+def my_quadro(z):
 	"""
 	create new function
 	"""	

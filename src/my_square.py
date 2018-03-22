@@ -5,4 +5,11 @@ def my_square(y):
 	save this file
 	"""
 	return (y ** 2)
+
+def my_quadro(z)
+	"""
+	create new function
+	"""	
+	return (z**4)
 print (my_square (42) )
+print (my_quadro(21))

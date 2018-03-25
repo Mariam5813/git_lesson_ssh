@@ -19,3 +19,9 @@ def my_quadro(z):
 print (my_square (42))
 print (my_triple(17))
 print (my_quadro(21))
+
+def empty(Test):
+	Test =input("this is a test")
+	return (Test)
+print (empty(test))
+

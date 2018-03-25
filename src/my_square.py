@@ -11,17 +11,13 @@ def my_quadro(z):
 	create new function
 	"""	
 	return (z**4)
-	def my_triple(x):
-		"""
-		"""
-		return(x ** 3)
 		
+def empty(m):
+	
+	return (m)
+
+
 print (my_square (42))
-print (my_triple(17))
 print (my_quadro(21))
 
-def empty(Test):
-	Test =input("this is a test")
-	return (Test)
-print (empty(test))
-
+print (empty("something"))

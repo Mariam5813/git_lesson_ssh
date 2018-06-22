@@ -32,7 +32,14 @@ def empty(m):
 	
 	return (m)
 
+def exampl(n):
 
+	n=n+25
+
+	return(n)
+
+
+print exampl(85)
 print (my_square (42))
 
 print (my_quadro(21))

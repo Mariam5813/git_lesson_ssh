@@ -1,6 +1,8 @@
 AlphaNum=1
-""""put some comments789
+
 "" put more comments
-for Alpha in (" Good day !!!") :
+""put some comments
+
+for Alpha in (" Good afternoon !!!") :
 	print ("Letter ", AlphaNum, " is ", Alpha)
 	AlphaNum+=1
